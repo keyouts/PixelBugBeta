@@ -15,8 +15,8 @@
     "sprite",
     "editor"
   ],
-  "author": "",
-  "license": "Apache-2.0",
+  "author": "KeyOuts",
+  "license": "GPL-3.0-only",
   "devDependencies": {
     "electron": "^42.0.1",
     "electron-builder": "^26.0.12"
