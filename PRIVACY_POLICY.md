@@ -87,4 +87,4 @@ Separate exported files and manually saved `.pxbuild` projects will remain unles
 
 ## License
 
-Pixel Bug Beta is distributed under the Apache-2.0 license.
+Pixel Bug Beta is distributed under the GPL-3.0 license.
