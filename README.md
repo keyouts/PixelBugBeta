@@ -78,4 +78,4 @@ Exports are only created when you choose a save or export option.
 
 ## License
 
-Apache-2.0
+GPL-3.0
