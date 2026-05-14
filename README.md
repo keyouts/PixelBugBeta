@@ -3,7 +3,7 @@
 Pixel Bug Beta is a desktop pixel-art and sprite editor built with Electron.
 
 ---
-[![Pixel Bug Beta Overview](https://www.youtube.com/watch?v=74kWC-vJC7c)](https://youtube.com)
+[![Pixel Bug Beta Demo](https://img.youtube.com/vi/74kWC-vJC7c/maxresdefault.jpg)](https://www.youtube.com/watch?v=74kWC-vJC7c)
 
 ## Features
 
