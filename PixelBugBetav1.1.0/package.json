@@ -16,7 +16,7 @@
     "editor"
   ],
   "author": "KeyOuts",
-  "license": "GPL-3.0-only",
+  "license": "GPL-3.0-or-later",
   "devDependencies": {
     "electron": "^42.0.1",
     "electron-builder": "^26.0.12"
