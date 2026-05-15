@@ -23,7 +23,7 @@ Pixel Bug Beta does not automatically send your artwork, projects, imports, or e
 
 ## Local Storage
 
-Pixel Bug Beta uses local storage on your device for convenience features such as:
+Pixel Bug Beta uses local storage on your device for features such as:
 
 - autosave recovery
 - palette presets
