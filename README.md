@@ -83,4 +83,6 @@ Exports are only created when you choose a save or export option.
 
 ## License
 
-GPL-3.0
+GPL-3.0 
+
+Remakes, forks, experiments, and modifications are encouraged under the GPL-3.0 license. If you distribute modified versions, please keep them open-source under the same license.
