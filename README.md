@@ -33,6 +33,10 @@ Pixel Bug Beta is a desktop pixel-art and sprite editor built with Electron.
 
 ## Run
 
+- Download Node.js if needed
+- In project folder run cmd
+
+
 ```bash
 npm install
 npm start
