@@ -6,7 +6,7 @@ Pixel Bug Beta is a desktop pixel-art and sprite editor built with Electron.
 [![Pixel Bug Beta Demo](https://img.youtube.com/vi/74kWC-vJC7c/maxresdefault.jpg)](https://www.youtube.com/watch?v=74kWC-vJC7c)
 
 ## Features
-
+[![Pixel Bug Demo](https://img.youtube.com/vi/ZdaYMyHfnD8/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZdaYMyHfnD8)
 - Pencil, eraser, fill, pick color, line, rectangle, and ellipse tools
 - Layers with:
   - visibility
@@ -20,6 +20,8 @@ Pixel Bug Beta is a desktop pixel-art and sprite editor built with Electron.
 - Undo and redo
 - Palette presets
 - Image pixelizer with import to the active layer
+- Voxel Preview with the ability to create .obj files compatible with blender
+- Print Studio with various mockup options for stationery like washi tape, sticky notes, and art prints
 - Local autosave
 - Project save/open using `.pxbuild`
 - PNG, spritesheet, and GIF export
