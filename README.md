@@ -50,6 +50,8 @@ npm start
 npm run build
 ```
 
+The application can take a few minutes to be ready - when built, there will be an ".exe" file in the dist folder. Click this to install the application.
+
 ---
 
 ## Shortcuts
