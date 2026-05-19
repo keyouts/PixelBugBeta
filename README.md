@@ -73,6 +73,7 @@ The application can take a few minutes to be ready - when built, there will be a
 | `Ctrl/Cmd + S` | Save Project |
 | `Ctrl/Cmd + O` | Open Project |
 
+## Remember to save and back up your projects!
 ---
 
 ## Privacy
